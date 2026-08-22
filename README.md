@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineering student with a strong interest in Mobile App Development. I specialize in building cross-platform applications using Flutter and React Native, focusing on clean UI design, smooth user experience, and practical real-world functionality.<br><br>Alongside mobile development, I have a foundational understanding of AWS services and cybersecurity concepts, which helps me build more secure and scalable applications.<br><br>I am currently actively seeking internship or trainee opportunities in mobile development where I can apply my skills, learn from real-world projects, and grow as a professional developer.
+I am a Software Engineering Graduate with a strong interest in Cybersecurity.
 
 
 ## 🌐 Socials:
